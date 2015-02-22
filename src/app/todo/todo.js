@@ -1,0 +1,1 @@
+angular.module('ngSeed.todo', []);
